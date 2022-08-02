@@ -1,0 +1,14 @@
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.exe
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.deps.json
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.runtimeconfig.json
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.runtimeconfig.dev.json
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.dll
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.pdb
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.csproj.AssemblyReference.cache
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.AssemblyInfoInputs.cache
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.AssemblyInfo.cs
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.dll
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.pdb
+C:\Users\oksyp\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.genruntimeconfig.cache
